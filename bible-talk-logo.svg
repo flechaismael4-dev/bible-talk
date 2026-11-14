@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-labelledby="title">
+<title id="title">BIBLE TALK — WHERE THE TALK IS THE BIBLE</title>
+<rect width="700" height="700" rx="350" fill="#fff"/>
+<circle cx="350" cy="350" r="315" fill="none" stroke="#111" stroke-width="10" stroke-dasharray="2 22" stroke-linecap="round"/>
+<g fill="none" stroke="#111" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+<rect x="278" y="55" width="110" height="190" rx="52"/><path d="M296 95h74M292 125h82M292 155h82M296 185h74M333 245v45m-60-25a60 60 0 0 0 120 0"/>
+<path d="M455 215c35-70 86-75 112-33-32-5-44 13-50 36 40-18 71-1 80 30-35-9-55 2-73 29-25 37-57 52-100 50"/>
+<path d="M200 320l250-35v230l-250 35z" fill="#050505"/><path d="M450 285l35 18v228l-35-16" fill="#fff"/><path d="M225 570l225-30M230 585l215-30M235 600l205-30" />
+</g>
+<text x="350" y="295" text-anchor="middle" font-family="Arial,sans-serif" font-size="104" font-weight="900" fill="#050505" stroke="#159fe8" stroke-width="8" paint-order="stroke">BIBLE</text>
+<text x="350" y="465" text-anchor="middle" font-family="Arial,sans-serif" font-size="104" font-weight="900" fill="#050505" stroke="#159fe8" stroke-width="8" paint-order="stroke">TALK</text>
+<path d="M350 365v95m-40-55h80" stroke="#159fe8" stroke-width="16" stroke-linecap="square"/>
+<text x="350" y="655" text-anchor="middle" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#050505" stroke="#159fe8" stroke-width="1.5" paint-order="stroke">WHERE THE TALK IS THE BIBLE</text>
+</svg>
